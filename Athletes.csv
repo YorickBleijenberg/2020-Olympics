@@ -4,16 +4,24 @@ No,Athlete,Date,Nationality,Sport,Name,Location
 53,3,2021-07-17,South Africa,Football,Thabiso Monyane,
 54,4,2021-07-17,South Africa,Football,Kamohelo Mahlatsi,
 61,5,2021-07-21,Czech Republic,Beach Vollyball,Markéta Sluková-Nausch,
-68,6,2021-07-21,Chille,Taekwondo,,
-82,7,2021-07-21,Czech Republic,Table Tennis,,
+68,6,2021-07-21,Chile,Taekwondo, Fernanda Aguirre,
+82,7,2021-07-21,Czech Republic,Table Tennis,Pavel Sirucek, https://www.today.com/news/all-olympic-athletes-who-have-tested-positive-covid-19-t226139
 83,8,2021-07-21,The Netherlands,Skateboarding,Candy Jacobs,
 99,9,2021-07-21,The Netherlands,Taekwondo,Reshmie Oogink,
 102,10,2021-07-22,Czech Republic,Beach Volleyball,,
 105,11,2021-07-22,Czech Republic,Cycling Road,,
-124,12,2021-07-23,Germany,Cycling Road,,
+124,12,2021-07-23,Germany,Cycling Road, Simon Geschke,
 128,13,2021-07-23,The Netherlands,Rowing,Finn Florijn,
 138,14,2021-07-25,Unknown,Unknown,,
 139,15,2021-07-25,Unknown,Unknown,,
 147,16,2021-07-25,Unknown,Unknown,,
 151,17,2021-07-26,Unknown,Unknown,,
 152,18,2021-07-26,The Netherlands,Tennis,Jean-Julien Rojer ,
+
+,,2021-07-19,United States, Gymnastics, Kara Eaker, https://nypost.com/2021/07/19/us-olympian-tests-positive-for-covid-days-before-tokyo-games-start/
+,,2021-07-19, Czech Republic, Beach Volleyball, Ondřej Perušič, https://abcnews.go.com/Sports/wireStory/olympic-athlete-tests-positive-tokyo-days-1st-game-78921440
+,,2021-07-23, Belgium, Athletics, Jelle Green, https://www.reuters.com/world/asia-pacific/coronavirus-incidents-tokyo-olympics-2021-07-15/
+,,2021-07-24, United States, Golf, Bryson DeChambeau, https://apnews.com/article/2020-tokyo-olympics-sports-health-coronavirus-pandemic-united-states-olympic-team-4c9135fca5ffa23ba815b2e0576980c7
+,,2021-07-25, Spain, Golf, John Rahm, https://apnews.com/article/2020-tokyo-olympics-sports-health-coronavirus-pandemic-united-states-olympic-team-4c9135fca5ffa23ba815b2e0576980c7
+//
+Cumulative total athletes and team officials 07-27: 19 (see https://gtimg.tokyo2020.org/image/upload/production/rixpwcxgfaysjdyctxm5.pdf)
