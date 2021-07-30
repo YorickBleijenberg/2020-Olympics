@@ -1,21 +1,24 @@
-No,Athlete,Date,Nationality,Sport,Name,Location
-23,1,2021-07-14,Unknown,Unknown,Unknown,
-52,2,2021-07-17,United States,Beach Volleyball,Taylor Crabb ,
-53,3,2021-07-17,South Africa,Football,Thabiso Monyane,
-54,4,2021-07-17,South Africa,Football,Kamohelo Mahlatsi,
-61,5,2021-07-21,Czech Republic,Beach Vollyball,Markéta Sluková-Nausch,
-68,6,2021-07-21,Chile,Taekwondo,"Fernanda Aguirre,",
-82,7,2021-07-21,Czech Republic,Table Tennis, Pavel Sirucek,
-83,8,2021-07-21,The Netherlands,Skateboarding,Candy Jacobs,
-99,9,2021-07-21,The Netherlands,Taekwondo,Reshmie Oogink,
-102,10,2021-07-22,Czech Republic,Beach Volleyball,Ondřej Perušič,
-105,11,2021-07-22,Czech Republic,Cycling Road,Michal Schlegel,
-124,12,2021-07-23,Germany,Cycling Road,"Simon Geschke,",
-128,13,2021-07-23,The Netherlands,Rowing,Finn Florijn,
-137,14,2021-07-25,Unknown,Unknown,,
-138,15,2021-07-25,Unknown,Unknown,,
-146,16,2021-07-25,Unknown,Unknown,Unknown,
-150,17,2021-07-26,The Netherlands,Tennis,Jean-Julien Rojer ,
-176,18,2021-07-27,Unknown,Unknown,Unknown,
-180,19,2021-07-28,United States,pole vault ,Sam Kendricks,
-181,20,2021-07-28,Unknown,Unknown,Unknown,
+No,Athlete,Date,Nationality,Sport,Name
+23,1,2021-07-14,Unknown,Unknown,Unknown
+52,2,2021-07-17,United States,Beach Volleyball,Taylor Crabb 
+53,3,2021-07-17,South Africa,Football,Thabiso Monyane
+54,4,2021-07-17,South Africa,Football,Kamohelo Mahlatsi
+61,5,2021-07-21,Czech Republic,Beach Vollyball,Markéta Sluková-Nausch
+68,6,2021-07-21,Chile,Taekwondo,"Fernanda Aguirre,"
+82,7,2021-07-21,Czech Republic,Table Tennis, Pavel Sirucek
+83,8,2021-07-21,The Netherlands,Skateboarding,Candy Jacobs
+99,9,2021-07-21,The Netherlands,Taekwondo,Reshmie Oogink
+102,10,2021-07-22,Czech Republic,Beach Volleyball,Ondřej Perušič
+105,11,2021-07-22,Czech Republic,Cycling Road,Michal Schlegel
+124,12,2021-07-23,Germany,Cycling Road,"Simon Geschke,"
+128,13,2021-07-23,The Netherlands,Rowing,Finn Florijn
+137,14,2021-07-25,Unknown,Unknown,Unknown
+138,15,2021-07-25,Unknown,Unknown,Unknown
+146,16,2021-07-25,Unknown,Unknown,Unknown
+150,17,2021-07-26,The Netherlands,Tennis,Jean-Julien Rojer 
+176,18,2021-07-27,Unknown,Unknown,Unknown
+180,19,2021-07-28,Unknown,Unknown,Unknown
+181,20,2021-07-28,Italy,Rowing,Bruno Rosetti
+201,21,2021-07-29,Unknown,Unknown,Unknown
+203,22,2021-07-29,Unknown,Unknown,Unknown
+204,23,2021-07-29,United States,Athletics,Sam Kendricks
